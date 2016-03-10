@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="Sample.Droid">
+  <uses-sdk android:minSdkVersion="18" android:targetSdkVersion="23" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:name="mono.android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+    <activity android:icon="@drawable/icon" android:label="Sample.Droid" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Splash" android:name="md50893a3da47ffda0d763d8f1d9ffc1c06.SplashScreen" />
+    <activity android:label="Employee Detail" android:theme="@style/HoloTheme" android:name="md5718bc3cb849fb380ea4a7e007a6e50ec.EmployeeDetailView" />
+    <activity android:label="View for FirstViewModel" android:name="md5718bc3cb849fb380ea4a7e007a6e50ec.FirstView" />
+    <activity android:label="Employee List" android:theme="@style/HoloTheme" android:name="md5718bc3cb849fb380ea4a7e007a6e50ec.EmployeeView" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Sample.Droid.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.Sample.Droid" />
+      </intent-filter>
+    </receiver>
+    <activity android:icon="@drawable/icon" android:label="Sample.Droid" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Mono.Android.Theme.Splash" android:name="sample.droid.TrialSplashScreen">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+  </application>
+</manifest>

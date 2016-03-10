@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Droid\obj\Debug\__library_projects__\Chance.MvvmCross.Plugins.UserInteraction.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Droid\obj\Debug\__library_projects__\MvvmCross.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.V4\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.V7.AppCompat\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.V7.Fragging\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Droid\obj\Debug\__library_projects__\MvvmCross.Platform.Droid\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Droid\obj\Debug\__library_projects__\Chance.MvvmCross.Plugins.UserInteraction.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Droid\obj\Debug\__library_projects__\MvvmCross.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.V4\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.V7.AppCompat\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.V7.Fragging\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Droid\obj\Debug\__library_projects__\MvvmCross.Platform.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Droid\obj\Debug\__library_projects__\Chance.MvvmCross.Plugins.UserInteraction.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.V4.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.V7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Droid\obj\Debug\__library_projects__\MvvmCross.Droid.Support.V7.Fragging.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Droid\obj\Debug\__library_projects__\MvvmCross.Platform.Droid.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

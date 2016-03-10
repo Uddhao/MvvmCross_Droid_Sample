@@ -1,0 +1,64 @@
+package md5204979768ea66d3a79201c4efd7c602a;
+
+
+public abstract class MvxSplashScreenCompatActivity
+	extends md5204979768ea66d3a79201c4efd7c602a.MvxAppCompatActivity
+	implements
+		mono.android.IGCUserPeer
+{
+	static final String __md_methods;
+	static {
+		__md_methods = 
+			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
+			"n_onResume:()V:GetOnResumeHandler\n" +
+			"n_onPause:()V:GetOnPauseHandler\n" +
+			"";
+		mono.android.Runtime.register ("MvvmCross.Droid.Support.V7.AppCompat.MvxSplashScreenCompatActivity, MvvmCross.Droid.Support.V7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", MvxSplashScreenCompatActivity.class, __md_methods);
+	}
+
+
+	public MvxSplashScreenCompatActivity () throws java.lang.Throwable
+	{
+		super ();
+		if (getClass () == MvxSplashScreenCompatActivity.class)
+			mono.android.TypeManager.Activate ("MvvmCross.Droid.Support.V7.AppCompat.MvxSplashScreenCompatActivity, MvvmCross.Droid.Support.V7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+	}
+
+
+	public void onCreate (android.os.Bundle p0)
+	{
+		n_onCreate (p0);
+	}
+
+	private native void n_onCreate (android.os.Bundle p0);
+
+
+	public void onResume ()
+	{
+		n_onResume ();
+	}
+
+	private native void n_onResume ();
+
+
+	public void onPause ()
+	{
+		n_onPause ();
+	}
+
+	private native void n_onPause ();
+
+	java.util.ArrayList refList;
+	public void monodroidAddReference (java.lang.Object obj)
+	{
+		if (refList == null)
+			refList = new java.util.ArrayList ();
+		refList.add (obj);
+	}
+
+	public void monodroidClearReferences ()
+	{
+		if (refList != null)
+			refList.clear ();
+	}
+}

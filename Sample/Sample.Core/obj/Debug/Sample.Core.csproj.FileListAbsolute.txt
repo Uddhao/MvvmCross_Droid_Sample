@@ -1,0 +1,16 @@
+E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Core\bin\Debug\Sample.Core.dll
+E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Core\bin\Debug\Sample.Core.pdb
+E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Core\obj\Debug\Sample.Core.dll
+E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Core\obj\Debug\Sample.Core.pdb
+E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Core\bin\Debug\MvvmCross.Binding.dll
+E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Core\bin\Debug\MvvmCross.Core.dll
+E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Core\bin\Debug\MvvmCross.Localization.dll
+E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Core\bin\Debug\MvvmCross.Platform.dll
+E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Core\bin\Debug\Chance.MvvmCross.Plugins.UserInteraction.dll
+E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Core\obj\Debug\Sample.Core.csprojResolveAssemblyReference.cache
+E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Core\obj\Debug\Sample.Core.dll.mdb
+E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Core\bin\Debug\Sample.Core.dll.mdb
+E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Core\obj\Debug\Sample.Core.dll.mdb
+E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Core\bin\Debug\Sample.Core.dll.mdb
+E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Core\obj\Debug\Sample.Core.dll.mdb
+E:\ubackup\Project\ViewPagerExample\ViewPagerFragment\Sample\Sample.Core\bin\Debug\Sample.Core.dll.mdb
